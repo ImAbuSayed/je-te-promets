@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/je-te-promets/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Je Te Promets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/je-te-promets/) |
+| **Get License** | [Commercial Licensing for Je Te Promets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/je-te-promets/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Je te promets des nuits sous les néons de Paris
+> Ton parfum d'insolence qui me rend tellement crazy
+> Une danse au ralenti, nos regards qui s'embrasent
+> Ce soir on laisse tomber les doutes qui nous écrasent
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
