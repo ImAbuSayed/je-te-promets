@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Je Te Promets
+
+This log tracks the cryptographic history and versioning for the song **Je Te Promets** (je-te-promets).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-25T12:25:50.792609 | `v1` | `6bb19a8b9637096f7da2fb52c1101885280f14d40e7a5dd68403a130c3a23147` | `acaf64422a7c7bed4df064c13aa01fc785eb0dec32d037db02c88ed9cec83fff` | `2026-06-25_je-te-promets-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

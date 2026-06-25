@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/je-te-promets/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Je Te Promets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/je-te-promets/) |
+| **Get License** | [Official Music Licensing for Je Te Promets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/je-te-promets/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6bb19a8b9637096f7da2fb52c1101885280f14d40e7a5dd68403a130c3a23147` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
